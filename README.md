@@ -1,19 +1,3 @@
-# anishare
+# Better Anime
 
-## Project setup
-```
-yarn install
-```
-
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Tired of the ugly anime list? Better anime will be released soon!
